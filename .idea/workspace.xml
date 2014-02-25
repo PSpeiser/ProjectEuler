@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dc8dca3-11f0-4e0a-b529-c3cd629cae85" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Problem 14.py" />
+    <list default="true" id="3dc8dca3-11f0-4e0a-b529-c3cd629cae85" name="Default" comment="Problem 14 Completed">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Problem 20.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProjectEuler.iws" />
@@ -25,9 +25,10 @@
     <SUITE FILE_PATH="coverage/ProjectEuler$Problem_3.coverage" NAME="Problem 3 Coverage Results" MODIFIED="1392388422780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProjectEuler$Problem_6.coverage" NAME="Problem 6 Coverage Results" MODIFIED="1392389123685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProjectEuler$Problem_16.coverage" NAME="Problem 16 Coverage Results" MODIFIED="1393252639777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ProjectEuler$Problem_14.coverage" NAME="Problem 14 Coverage Results" MODIFIED="1393252941167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjectEuler$Problem_14.coverage" NAME="Problem 14 Coverage Results" MODIFIED="1393253275304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProjectEuler$Problem_4.coverage" NAME="Problem 4 Coverage Results" MODIFIED="1392388333478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProjectEuler$Problem_9.coverage" NAME="Problem 9 Coverage Results" MODIFIED="1392389960018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjectEuler$Problem_20.coverage" NAME="Problem 20 Coverage Results" MODIFIED="1393355064336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProjectEuler$Problem_10.coverage" NAME="Problem 10 Coverage Results" MODIFIED="1392389796618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProjectEuler$Problem_2.coverage" NAME="Problem 2 Coverage Results" MODIFIED="1392388006766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -55,7 +56,7 @@
       <file leaf-file-name="Problem 13.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 13.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="50" selection-start="4647" selection-end="4647" vertical-scroll-proportion="0.0" vertical-offset="1281" max-vertical-offset="1836">
+            <state line="90" column="50" selection-start="4647" selection-end="4647" vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="1836">
               <folding />
             </state>
           </provider>
@@ -64,16 +65,25 @@
       <file leaf-file-name="Problem 16.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 16.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="14" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+            <state line="6" column="14" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem 14.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Problem 14.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 14.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="555">
+            <state line="10" column="16" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem 20.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem 20.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="49" selection-start="61" selection-end="61" vertical-scroll-proportion="0.030630631" vertical-offset="0" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
@@ -112,6 +122,7 @@
         <option value="$PROJECT_DIR$/Problem 13.py" />
         <option value="$PROJECT_DIR$/Problem 16.py" />
         <option value="$PROJECT_DIR$/Problem 14.py" />
+        <option value="$PROJECT_DIR$/Problem 20.py" />
       </list>
     </option>
   </component>
@@ -147,6 +158,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -167,15 +179,30 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="147" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="174" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="168" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="176" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="844" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="837" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="168" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="168" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -185,26 +212,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Problem 14">
-    <configuration default="false" name="Problem 11" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ProjectEuler" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 11.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Problem 20">
     <configuration default="false" name="Problem 12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,6 +284,25 @@
       <module name="ProjectEuler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 14.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Problem 20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProjectEuler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 20.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -365,9 +392,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -389,6 +413,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -432,19 +459,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Problem 11" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Problem 12" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Problem 13" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Problem 16" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Problem 14" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Problem 12" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Problem 13" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Problem 16" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Problem 14" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Problem 20" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Problem 14" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Problem 16" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Problem 13" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Problem 12" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Problem 11" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Problem 20" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Problem 14" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Problem 16" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Problem 13" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Problem 12" />
       </list>
     </recent_temporary>
   </component>
@@ -524,7 +551,11 @@
       <created>1393252648980</created>
       <updated>1393252648980</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Problem 14 Completed">
+      <created>1393252980865</created>
+      <updated>1393252980865</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -542,7 +573,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -572,17 +603,13 @@
     <MESSAGE value="Problem 11 Solved" />
     <MESSAGE value="Problem 13 Solved" />
     <MESSAGE value="Problem 16 Solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 16 Solved" />
+    <MESSAGE value="Problem 14 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 14 Completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem 8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="1163" selection-end="1163" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem 9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="221" />
@@ -661,7 +688,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 14.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="555">
+        <state line="10" column="16" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="49" selection-start="61" selection-end="61" vertical-scroll-proportion="0.030630631" vertical-offset="0" max-vertical-offset="555">
           <folding />
         </state>
       </provider>
